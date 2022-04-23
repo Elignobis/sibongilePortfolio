@@ -632,7 +632,7 @@ hr {
 }
 
 .work {
-    background-color: rgb(243,242,239);
+    background-color: white;
     margin: 50px 30px 0 30px;
     height: 600px;
     width: 95%;
@@ -640,9 +640,19 @@ hr {
     border: 1px solid black;
     box-shadow: 1px 10px 5px 2px black;
 }
+.resume-title {
+    margin: 30px 50px;
+    font-size: 1.5vw;
+}
+
+.work-experience-div {
+    background-color: rgb(141, 128, 128);
+    height: 200px;
+    width: 1343px;
+}
 
 .education {
-    background-color: rgb(243,242,239);
+    background-color: white;
     margin: 50px 30px 0 30px;
     height: 600px;
     width: 95%;
