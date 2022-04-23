@@ -493,6 +493,10 @@ hr {
     color: rgb(255,202,42);
 }
 
+.bxl-mongodb {
+    color: #45a049;
+}
+
 .hover-para {
     position: absolute;
     bottom: 80px;
@@ -588,7 +592,7 @@ hr {
 }
 
 .project2 {
-    background-color: rgb(243,242,239);
+    background-color: white;
     margin: 50px 30px 0 30px;
     height: 300px;
     width: 45%;
@@ -597,7 +601,7 @@ hr {
     box-shadow: 1px 10px 5px 2px black;
 }
 .project3 {
-    background-color: rgb(243,242,239);
+    background-color: white;
     margin: 50px 30px 0 30px;
     height: 300px;
     width: 45%;
@@ -606,7 +610,7 @@ hr {
     box-shadow: 1px 10px 5px 2px black;
 }
 .project4 {
-    background-color: rgb(243,242,239);
+    background-color: white;
     margin: 50px 30px 0 30px;
     height: 300px;
     width: 45%;
@@ -618,6 +622,13 @@ hr {
 .buttons-projects {
     margin-left: 40px;
     margin-top: 50px;
+}
+
+.prjct-btn {
+    margin-top: 10px;
+}
+.project-description {
+    margin-top: 10px;
 }
 
 .work {
