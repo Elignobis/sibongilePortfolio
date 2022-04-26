@@ -770,7 +770,7 @@ input[type=submit]:hover {
     width: 1420px;
     height: 250px;
     border: 1px solid transparent;
-    perspective: 1000px; /* Remove this if you don't want the 3D effect */
+    /*  perspective: 1000px;Remove this if you don't want the 3D effect */
   }
   
   /* This container is needed to position the front and back side */
@@ -779,7 +779,7 @@ input[type=submit]:hover {
     width: 1420px;
     height: 250px;
     text-align: center;
-    transition: transform 0.8s;
+    transition: transform 4s;
     transform-style: preserve-3d;
   }
   
